@@ -1,0 +1,32 @@
+{
+    "name": "Fischerpack",
+    "short_name": "Fischerpack",
+    "start_url": "/",
+    "theme_color": "#1F39FF",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Hand Selected Toys and Treats",
+    "icons": [
+        {
+            "src": "/fischer-static/icons/fischer_circle_144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/fischer-static/icons/fischer_circle_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/fischer-static/icons/fischer_circle_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/fischer-static/icons/fischer_maskable_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
